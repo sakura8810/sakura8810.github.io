@@ -1,8 +1,8 @@
-## JULLY ALEXANDRA DUARTE SANCHEZ
+# JULLY ALEXANDRA DUARTE SANCHEZ
 
 I am a Technical Leader specializing in web development. I have extensive experience overseeing the development, implementation and management of news websites. This experience has helped me develop a range of relevant skills, including an in-depth knowledge of PHP language and confident project leadership. Proven experience developing consumer-focused web sites using HTML, JQuery, PHP and JavaScript. Experience building products for desktop and mobile websites, meeting the highest standards for web design, user experience, best practices, usability and speed. Responding to challenges by designing and developing solutions and building web applications aligned to customer's services.
 
-### SKILLS
+## SKILLS
 
   <div class="colorlib-narrow-content">
       <ul id="skills">
@@ -15,7 +15,7 @@ I am a Technical Leader specializing in web development. I have extensive experi
       </ul>
   </div>
 
-### WORK EXPERIENCE
+## WORK EXPERIENCE
 
 **EL TIEMPO CASA EDITORIAL June 2020 - Present**
 <p>Tech Leader</p>
@@ -64,9 +64,9 @@ I am a Technical Leader specializing in web development. I have extensive experi
 
 ## EDUCATION
 **Bachelor of Engineering Technology: Engineering Technology**
-Universidad Nacional de Colombia, Bogota
+<span>Universidad Nacional de Colombia, Bogota</span>
 
-### CONTACT
+## CONTACT
 
 - jalexa88@gmail.com
 - 571-310-7955657
