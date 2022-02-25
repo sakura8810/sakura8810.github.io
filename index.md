@@ -4,20 +4,18 @@ I am a Technical Leader specializing in web development. I have extensive experi
 
 ### SKILLS
 
-<section  data-section="skills">
   <div class="colorlib-narrow-content">
       <div id="skills">
-        <div>PHP</div>
-        <div>Symfony</div>
-        <div>JavaScript</div>
-        <div>JQuery</div>
-        <div>CSS</div>
-        <siv>HTML</div>
-       </div>
+        <span>PHP</span>
+        <span>Symfony</span>
+        <span>JavaScript</span>
+        <span>JQuery</span>
+        <span>CSS</span>
+        <span>HTML</span>
+      </div>
   </div>
-</section>
 
-# WORK EXPERIENCE
+### WORK EXPERIENCE
 
 <p>EL TIEMPO CASA EDITORIAL
   <span>June 2020 - Present</span>
