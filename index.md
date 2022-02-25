@@ -5,19 +5,19 @@ I am a Technical Leader specializing in web development. I have extensive experi
 ### SKILLS
 
   <div class="colorlib-narrow-content">
-      <div id="skills">
-        <span>PHP</span>
-        <span>Symfony</span>
-        <span>JavaScript</span>
-        <span>JQuery</span>
-        <span>CSS</span>
-        <span>HTML</span>
-      </div>
+      <ul id="skills">
+        <li>PHP</li>
+        <li>Symfony</li>
+        <li>JavaScript</li>
+        <li>JQuery</li>
+        <li>CSS</li>
+        <li>HTML</li>
+      </ul>
   </div>
 
 ### WORK EXPERIENCE
 
-<p>EL TIEMPO CASA EDITORIAL
+<p>**EL TIEMPO CASA EDITORIAL**
   <span>June 2020 - Present</span>
 </p>
 <p>Tech Leader</p>
@@ -63,11 +63,21 @@ I am a Technical Leader specializing in web development. I have extensive experi
 <li>Managed CMS developed in house.</li>
 
 </ul>  
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## PROJECTS
+[eltiempo.com](https://eltiempo.com)
+[portafolio.co](https://portafolio.co)
+[futbolred.com](https://futbolred.com)
+
+## EDUCATION
+<span>Bachelor of Engineering Technology: Engineering Technology</span>
+<p>Universidad Nacional de Colombia, Bogota</p>
+
+
+### CONTACT
+
+- jalexa88@gmail.com
+- 571-310-7955657
 
 1. Numbered
 2. List
