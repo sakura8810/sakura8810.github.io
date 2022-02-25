@@ -17,9 +17,7 @@ I am a Technical Leader specializing in web development. I have extensive experi
 
 ### WORK EXPERIENCE
 
-<p>**EL TIEMPO CASA EDITORIAL**
-  <span>June 2020 - Present</span>
-</p>
+**EL TIEMPO CASA EDITORIAL June 2020 - Present**
 <p>Tech Leader</p>
 <ul>
   <li>Prepare the workflow of the team every sprint and assign tasks to each other according to the skills that they have.</li>
@@ -29,11 +27,7 @@ I am a Technical Leader specializing in web development. I have extensive experi
   <li>Establish methods, procedures and standards that will be used in development</li> 
 </ul>  
 
-
-
-<p>EL TIEMPO CASA EDITORIAL
-  <span>December 2015 - May 2020</span>
-</p>
+**EL TIEMPO CASA EDITORIAL December 2015 - May 2020**
 <p>Senior Project Engineer </p>
 <ul>
   <li>Managed 3 projects effectively to deliver finished work on time</li>
@@ -52,9 +46,8 @@ I am a Technical Leader specializing in web development. I have extensive experi
 <li>Implemented GIT for version control</li>
 
 </ul>  
-<p>EL TIEMPO CASA EDITORIAL
-  <span>April 2011 - December 2015</span>
-</p>
+
+**EL TIEMPO CASA EDITORIAL April 2011 - December 2015**
 <p>Support Engineer </p>
 <ul>
 <li>Tested around 6 websites and performed troubleshooting prior to deployment.</li>
@@ -65,14 +58,13 @@ I am a Technical Leader specializing in web development. I have extensive experi
 </ul>  
 
 ## PROJECTS
-[eltiempo.com](https://eltiempo.com)
-[portafolio.co](https://portafolio.co)
-[futbolred.com](https://futbolred.com)
+- [eltiempo.com](https://eltiempo.com)
+- [portafolio.co](https://portafolio.co)
+- [futbolred.com](https://futbolred.com)
 
 ## EDUCATION
-<span>Bachelor of Engineering Technology: Engineering Technology</span>
-<p>Universidad Nacional de Colombia, Bogota</p>
-
+**Bachelor of Engineering Technology: Engineering Technology**
+Universidad Nacional de Colombia, Bogota
 
 ### CONTACT
 
