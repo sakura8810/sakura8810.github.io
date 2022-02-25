@@ -4,19 +4,67 @@ I am a Technical Leader specializing in web development. I have extensive experi
 
 ### SKILLS
 
-<section class="colorlib-skills" data-section="skills">
-                  <div class="colorlib-narrow-content">
-                     <div class="row row-bottom-padded-sm animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
-                        <div class="about-desc">
-                           <h1>Skills</h1>
-                        </div>
-                     </div>
-                     <div id="skills" class="row">
-                     <div class="col-md-6 animate-box fadeInUp animated"><div class="progress-wrap"><h3>JavaScript, C++</h3><div class="progress"><div class="progress-bar color-1" style="width: 70%;"></div></div></div></div><div class="col-md-6 animate-box fadeInUp animated"><div class="progress-wrap"><h3>Angular, Reactjs</h3><div class="progress"><div class="progress-bar color-6" style="width: 50%;"></div></div></div></div><div class="col-md-6 animate-box fadeInUp animated"><div class="progress-wrap"><h3>Nodejs, MongoDB</h3><div class="progress"><div class="progress-bar color-2" style="width: 40%;"></div></div></div></div><div class="col-md-6 animate-box fadeInUp animated"><div class="progress-wrap"><h3>AWS(EC2, S3), Heroku, Netlify</h3><div class="progress"><div class="progress-bar color-3" style="width: 30%;"></div></div></div></div><div class="col-md-6 animate-box fadeInUp animated"><div class="progress-wrap"><h3>HTML, Bootstrap, SCSS</h3><div class="progress"><div class="progress-bar color-4" style="width: 70%;"></div></div></div></div><div class="col-md-6 animate-box fadeInUp animated"><div class="progress-wrap"><h3>GitHub, JIRA, Trello</h3><div class="progress"><div class="progress-bar color-7" style="width: 70%;"></div></div></div></div><div class="col-md-6 animate-box fadeInUp animated"><div class="progress-wrap"><h3>Postman, Chrome DevTools</h3><div class="progress"><div class="progress-bar color-3" style="width: 80%;"></div></div></div></div><div class="col-md-6 animate-box fadeInUp animated"><div class="progress-wrap"><h3>CleverTap, FreshDesk</h3><div class="progress"><div class="progress-bar color-5" style="width: 50%;"></div></div></div></div><div class="col-md-6 animate-box fadeInUp animated"><div class="progress-wrap"><h3>VS Code</h3><div class="progress"><div class="progress-bar color-6" style="width: 70%;"></div></div></div></div></div>
-                  </div>
-               </section>
+<section  data-section="skills">
+  <div class="colorlib-narrow-content">
+      <div id="skills">
+        <div>PHP</div>
+        <div>Symfony</div>
+        <div>JavaScript</div>
+        <div>JQuery</div>
+        <div>CSS</div>
+        <siv>HTML</div>
+       </div>
+  </div>
+</section>
 
-# Header 1
+# WORK EXPERIENCE
+
+<p>EL TIEMPO CASA EDITORIAL
+  <span>June 2020 - Present</span>
+</p>
+<p>Tech Leader</p>
+<ul>
+  <li>Prepare the workflow of the team every sprint and assign tasks to each other according to the skills that they have.</li>
+  <li>Estimate how much effort each task takes.</li>
+  <li>Provide technical guidelines to developers to achieve every task.</li>
+  <li>Control and check the code that every development makes.</li>
+  <li>Establish methods, procedures and standards that will be used in development</li> 
+</ul>  
+
+
+
+<p>EL TIEMPO CASA EDITORIAL
+  <span>December 2015 - May 2020</span>
+</p>
+<p>Senior Project Engineer </p>
+<ul>
+  <li>Managed 3 projects effectively to deliver finished work on time</li>
+<li>Determined schedule and budget requirements for El Tiempo new design project to coordinate efficient work</li>
+<li>Used programming capabilities in PHP, SQL and JavaScript and other libraries as needed</li>
+<li>Converted mockups into HTML, JavaScript, AJAX and JSON</li>
+<li>Designed, implemented and monitored web pages and sites for continuous improvement in fast-paced environment</li>
+<li>Built, tested and deployed scalable, highly available and modular software products</li>
+<li>Coordinated with project management staff on database development timelines and project scope</li>
+<li>Tested websites and performed troubleshooting prior to deployment</li>
+<li>Collaborated on all stages of systems development lifecycle, from requirements gathering to production releases</li>
+<li>Analyzed requirements and designed, developed and implemented software applications for multiple websites</li>
+<li>Maintained existing applications and designed and delivered new applications</li>
+<li>Developed code fixes and enhancements for inclusion in future code releases and patches</li>
+<li>Modified existing software to correct errors, adapt to new hardware and improve performance</li>
+<li>Implemented GIT for version control</li>
+
+</ul>  
+<p>EL TIEMPO CASA EDITORIAL
+  <span>April 2011 - December 2015</span>
+</p>
+<p>Support Engineer </p>
+<ul>
+<li>Tested around 6 websites and performed troubleshooting prior to deployment.</li>
+<li>Designed, implemented and monitored web pages and sites for continuous improvement in fast-paced environment.</li>
+<li>Consulted with engineering team members to determine system loads and develop improvement plans.</li>
+<li>Managed CMS developed in house.</li>
+
+</ul>  
 ## Header 2
 ### Header 3
 
