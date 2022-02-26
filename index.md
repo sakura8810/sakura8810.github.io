@@ -10,7 +10,7 @@ I am a Technical Leader specializing in web development. I have extensive experi
         <li>Symfony</li>
         <li>JavaScript</li>
         <li>JQuery</li>
-        <li>CSS</li>
+        <li>SQL</li>
         <li>HTML</li>
       </ul>
   </div>
