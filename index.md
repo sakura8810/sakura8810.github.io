@@ -1,6 +1,6 @@
 # JULLY ALEXANDRA DUARTE SANCHEZ
 
-I am a Technical Leader specializing in web development. I have extensive experience overseeing the development, implementation and management of news websites. This experience has helped me develop a range of relevant skills, including an in-depth knowledge of PHP language and confident project leadership. Proven experience developing consumer-focused web sites using HTML, JQuery, PHP and JavaScript. Experience building products for desktop and mobile websites, meeting the highest standards for web design, user experience, best practices, usability and speed. Responding to challenges by designing and developing solutions and building web applications aligned to customer's services.
+I am a Technical Leader specializing in web development. I have extensive experience implementing and management of news websites. This experience has helped me develop a range of relevant skills, including in-depth knowledge of PHP language and confident project leadership. Proven experience developing consumer-focused websites using HTML, JQuery, PHP, and JavaScript. Experience building products for desktop and mobile websites, meeting the highest standards for web design, user experience, best practices, usability, and speed. Responding to challenges by designing and developing solutions and building web applications aligned to customer services.
 
 ## SKILLS
 
@@ -23,8 +23,8 @@ I am a Technical Leader specializing in web development. I have extensive experi
   <li>Prepare the workflow of the team every sprint and assign tasks to each other according to the skills that they have.</li>
   <li>Estimate how much effort each task takes.</li>
   <li>Provide technical guidelines to developers to achieve every task.</li>
-  <li>Control and check the code that every development makes.</li>
-  <li>Establish methods, procedures and standards that will be used in development</li> 
+  <li>Control and check the code that every developer makes.</li>
+  <li>Establish methods, procedures, and standards that will be used in the development</li> 
 </ul>  
 
 **EL TIEMPO CASA EDITORIAL December 2015 - May 2020**
@@ -34,11 +34,10 @@ I am a Technical Leader specializing in web development. I have extensive experi
 <li>Determined schedule and budget requirements for El Tiempo new design project to coordinate efficient work</li>
 <li>Used programming capabilities in PHP, SQL and JavaScript and other libraries as needed</li>
 <li>Converted mockups into HTML, JavaScript, AJAX and JSON</li>
-<li>Designed, implemented and monitored web pages and sites for continuous improvement in fast-paced environment</li>
-<li>Built, tested and deployed scalable, highly available and modular software products</li>
-<li>Coordinated with project management staff on database development timelines and project scope</li>
+<li>Designed, implemented, and monitored web pages and sites for continuous improvement in a fast-paced environment</li>
+<li>Built, tested, and deployed scalable, highly available, and modular software products</li>
 <li>Tested websites and performed troubleshooting prior to deployment</li>
-<li>Collaborated on all stages of systems development lifecycle, from requirements gathering to production releases</li>
+<li>Collaborated on all stages of the systems development lifecycle, from requirements gathering to production releases</li>
 <li>Analyzed requirements and designed, developed and implemented software applications for multiple websites</li>
 <li>Maintained existing applications and designed and delivered new applications</li>
 <li>Developed code fixes and enhancements for inclusion in future code releases and patches</li>
@@ -51,9 +50,9 @@ I am a Technical Leader specializing in web development. I have extensive experi
 <p>Support Engineer </p>
 <ul>
 <li>Tested around 6 websites and performed troubleshooting prior to deployment.</li>
-<li>Designed, implemented and monitored web pages and sites for continuous improvement in fast-paced environment.</li>
+<li>Designed, implemented and monitored web pages and sites for continuous improvement in a fast-paced environment.</li>
 <li>Consulted with engineering team members to determine system loads and develop improvement plans.</li>
-<li>Managed CMS developed in house.</li>
+<li>Managed CMS developed in-house.</li>
 
 </ul>  
 
@@ -64,7 +63,7 @@ I am a Technical Leader specializing in web development. I have extensive experi
 
 ## EDUCATION
 **Bachelor of Engineering Technology: Engineering Technology**
-<span>Universidad Nacional de Colombia, Bogota</span>
+<p>Universidad Nacional de Colombia, Bogota</p>
 
 ## CONTACT
 
